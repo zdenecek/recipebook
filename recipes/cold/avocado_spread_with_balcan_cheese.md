@@ -1,5 +1,5 @@
 ---
-title: Avokádová pomazánka s balkánkským sýrem
+title: Avokádová pomazánka s balkánským sýrem
 source: Eva
 parent: Studené
 ---
