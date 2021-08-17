@@ -18,3 +18,6 @@ parent: Zeleninové
 - koření - koriandr, římský kmín, kari
 
 variace: místo okurky a kopru dát **česnek**
+
+## Itineář
+17-8-2021 Recept přepsán, bylo to dobrý

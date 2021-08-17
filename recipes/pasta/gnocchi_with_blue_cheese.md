@@ -11,3 +11,6 @@ Omáčka na pánvi:
 4. přidat špenát
 
 Servírovat s noky
+
+## Itineář
+17-8-2021 Recept přepsán, matná vzpomínka na výborný pokrm

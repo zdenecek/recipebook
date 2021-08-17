@@ -13,3 +13,6 @@ parent: Zeleninové
 6. přidat vejce
 7. péct
 8. posypat parmezánem
+
+## Itineář
+17-8-2021 Recept přepsán, vynechal jsem opěvování pokrmu v receptu, původně muselo zapůsobit
