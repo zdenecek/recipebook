@@ -1,6 +1,7 @@
 ---
 title: Šopský salát podle Evy :)
 source: Eva
+parent: Saláty
 ---
 
 ## Ingredience

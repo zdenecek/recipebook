@@ -1,6 +1,7 @@
 ---
 title: Pampeliškový salát
 source: Eva
+parent: Saláty
 ---
 
 ## Ingredience

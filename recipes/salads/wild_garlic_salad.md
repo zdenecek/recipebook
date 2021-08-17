@@ -1,6 +1,7 @@
 ---
 title: Salát s medvědím česnekem
 source: Eva
+parent: Saláty
 ---
 
 ## Ingredience

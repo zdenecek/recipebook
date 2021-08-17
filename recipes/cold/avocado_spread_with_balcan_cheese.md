@@ -1,6 +1,7 @@
 ---
 title: Avokádová pomazánka s balkánkským sýrem
 source: Eva
+parent: Studené
 ---
 
 ## Ingredience
