@@ -15,4 +15,4 @@ parent: Saláty
 - olej (dýňový či olivový panenský)
 
 ## Itineář
-20. 4. 2019 Recept přidán, autorka zpracovala výborně
+20-4-2019 Recept přidán, autorka zpracovala výborně

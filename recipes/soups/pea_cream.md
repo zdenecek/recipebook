@@ -15,7 +15,8 @@ parent: Polévky
 6. může se přidat trošku másla
 7. **rozmixovat**
 
-
-
 ## Servírování
 Například s máslovým croissantem.
+
+## Itineář
+17-8-2021 Recept přepsán, matná vzpomínka na chutný a jednoduchý pokrm
