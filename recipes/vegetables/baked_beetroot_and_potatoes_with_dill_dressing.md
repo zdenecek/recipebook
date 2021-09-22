@@ -1,6 +1,6 @@
 ---
 title: Pečená řepa a brambory s koprovým dressinkem
-parent: Zeleninové
+parent: Zelenina
 source: Eva
 ---
 

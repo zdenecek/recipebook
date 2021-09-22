@@ -1,6 +1,6 @@
 ---
-title: Zeleninove
-has_chidren: true
+title: Zelenina
+has_children: true
 ---
 
 xx

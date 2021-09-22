@@ -1,6 +1,6 @@
 ---
 title: Pečená cuketa s cibulí a celerem
-parent: Zeleninové
+parent: Zelenina
 source: Eva
 ---
 
